@@ -1,0 +1,9 @@
+// IDE별 js설정 파일이 다름
+// vscode >> jsconfig.json
+// intellij, webstorm >> config.webstorm.js
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
